@@ -1,5 +1,5 @@
 
-# Escopo - Entregas
+# Escopo
 
 Este repositório tem como objetivo organizar, documentar e versionar todas as etapas do Trabalho de Conclusão de Curso (TCC), proporcionando um acompanhamento estruturado do desenvolvimento do projeto. Facilitando tanto a gestão do conteúdo quanto a comunicação com o orientador, garantindo maior clareza, controle de versões e rastreabilidade das entregas ao longo do processo.
 
@@ -16,37 +16,22 @@ Semestre: 2026/1
 - [@marcelnt](https://github.com/marcelnt)
 - [@yurikomuta](https://github.com/yurikomuta)
 
+
 ### Documentação
-[Requisitos Funcionais](https://docs.google.com/document/d/1hZ7UtmppR4Gos6SaVSCrl67EO6zNeGfn22Zbd7bb3io/edit?usp=sharing
-)
-
-[Requisitos não Funcionais](https://docs.google.com/document/d/1YgpqtNfmlq65XDOZqISKW9IT_oboYbW7Sd-Olz5PZZI/edit?usp=sharing
-)
-
-[TAP](https://github.com/EdvanOAlves/tcc-repositorio-central/wiki)
-
-[Protótipo de Alta Fidelidade](https://www.figma.com/design/Fmi8DgDYtJuF4qEb2TakfD/Escopo?node-id=167-1702&t=MbOSVA4wONqRZvTh-1)
-
 
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
-│   └── 📄 wireframes.md  
-│   └── 📄 TAP (formato WIKI)  
-│   └── 📄 LER.docx    
-│   └── 📄 apresentação_prévia.pptx     #apresentação prévia    
-│   └── 📄 apresentação.pptx            #apresentação final
+│   └── 📄 prototipo de baixa fidelidade.png  
+│   └── 📄 Prototipo de alta fidelidade - Desktop.pdf /[Figma](https://www.figma.com/design/Fmi8DgDYtJuF4qEb2TakfD/Escopo?node-id=143-1403&t=y2qbJ506Lu1n6pUk-1)
+│   └── 📄 [TAP (formato WIKI)](https://github.com/EdvanOAlves/tcc-repositorio-central/wiki)  
+│   └── 📄 Requisitos Funcionais.pdf 
+│   └── 📄 Requisitos não Funcionais.pdf 
 
 
-├── 📂 code
-│   └── 📂 banco   
-│   └── 📂 backend   
-│   └── 📂 frontend  
-│   └── 📂 mobile   
-│   └── 📂 tests
+### Protótipo
 
+[Protótipo de Alta Fidelidade](https://www.figma.com/design/Fmi8DgDYtJuF4qEb2TakfD/Escopo?node-id=167-1702&t=MbOSVA4wONqRZvTh-1)
 
-├── 📂 referências              
-│   └── 📄 bibliografia.bib
 ## Contribuições
 
 Use mensagens claras e descritivas!
