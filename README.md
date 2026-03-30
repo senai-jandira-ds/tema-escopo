@@ -22,10 +22,10 @@ Semestre: 2026/1
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
 │   └── 📄 prototipo de baixa fidelidade.png  
-│   └── 📄 Prototipo de alta fidelidade - Desktop.pdf /[Figma](https://www.figma.com/design/Fmi8DgDYtJuF4qEb2TakfD/Escopo?node-id=143-1403&t=y2qbJ506Lu1n6pUk-1)
+│   └── 📄 Prototipo de alta fidelidade - Desktop.pdf / [Figma](https://www.figma.com/design/Fmi8DgDYtJuF4qEb2TakfD/Escopo?node-id=143-1403&t=y2qbJ506Lu1n6pUk-1)  
 │   └── 📄 [TAP (formato WIKI)](https://github.com/EdvanOAlves/tcc-repositorio-central/wiki)  
-│   └── 📄 Requisitos Funcionais.pdf 
-│   └── 📄 Requisitos não Funcionais.pdf 
+│   └── 📄 Requisitos Funcionais.pdf  
+│   └── 📄 Requisitos não Funcionais.pdf  
 
 
 ### Protótipo
