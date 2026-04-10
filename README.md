@@ -32,6 +32,8 @@ Semestre: 2026/1
 
 [Protótipo de Alta Fidelidade](https://www.figma.com/design/Fmi8DgDYtJuF4qEb2TakfD/Escopo?node-id=167-1702&t=MbOSVA4wONqRZvTh-1)
 
+[Vídeo Pitch](youtube.com/watch?v=WaIdwKSUhII&feature=youtu.be)
+
 ## Contribuições
 
 Use mensagens claras e descritivas!
