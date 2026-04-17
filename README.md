@@ -30,6 +30,15 @@ Semestre: 2026/1
 │   └── 📄 Modelo Conceitual Banco de Dados.png  
 │   └── 📄 Modelo Logico Banco de Dados.png
 
+### Banco de Dados
+[Repositório](https://github.com/EdvanOAlves/TCC_Escopo-Banco-de-Dados)
+
+### Back-End
+
+[Swagger](https://tcc-senai-backend.onrender.com/api/docs/)
+
+[Repositório](https://github.com/zNathan2303/tcc-senai_backend)
+
 
 ### Front-End
 
@@ -37,11 +46,6 @@ Semestre: 2026/1
 
 [Vídeo Pitch](youtube.com/watch?v=WaIdwKSUhII&feature=youtu.be)
 
-### Back-End
-
-[Swagger](https://tcc-senai-backend.onrender.com/api/docs/)
-
-[Repositório](https://github.com/zNathan2303/tcc-senai_backend)
 
 ## Contribuições
 
